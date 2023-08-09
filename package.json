@@ -1,0 +1,26 @@
+{
+  "name": "devcamp-footer-js-daroch",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer with name and year for JS applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daroch/devcamp-footer-js.git"
+  },
+  "keywords": [
+    "footer",
+    "javascript"
+  ],
+  "author": "Daroch <daroch314@gmail.com> (https://www.npmjs.com//~daroch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daroch/devcamp-footer-js/issues"
+  },
+  "homepage": "https://github.com/Daroch/devcamp-footer-js#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
