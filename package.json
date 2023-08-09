@@ -1,6 +1,6 @@
 {
   "name": "devcamp-footer-js-daroch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module allows for a dynamic footer with name and year for JS applications",
   "main": "index.js",
   "scripts": {
